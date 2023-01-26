@@ -1,0 +1,49 @@
+body {
+  /* background-color: #FFC0CB; */
+  background-color: #add8e6;
+}
+
+h1 {
+  padding: 0px;
+}
+
+input {
+  box-sizing: border-box;
+  font-size: large;
+  margin-bottom: 10px;
+}
+
+.bemine {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+  box-sizing: border-box;
+  font-size: large;
+}
+
+button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.gif {
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+.child {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
