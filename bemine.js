@@ -4,7 +4,7 @@ document.addEventListener('click', (e) => {
     if (target.id === "no-btn") {
       location.href = '/bruh.html';
     } else {
-      location.href = '/idkyet.html'
+      location.href = '/loveu.html'
     }
   }
 });
