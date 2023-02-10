@@ -5,4 +5,4 @@ const updatePhoto = () => {
   count++;
 }
 
-setInterval(updatePhoto, 250);
+setInterval(updatePhoto, 250);  // Hello
